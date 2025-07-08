@@ -47,7 +47,7 @@ We used the **Amazon Product Reviews Dataset**, which contains:
 
 > Below is a screenshot of the **deployed dashboard** built using Streamlit:
 
-![Hybrid Recommender UI](./10ec5216-9a3d-46d3-8262-09d9a7d8b1c8.png)
+![Dashboard Screenshot](./Screenshot%202025-07-08%20191245.png)
 
 - Select a user and a product ID
 - Adjust the `Alpha` slider to blend content & collaborative recommendations
